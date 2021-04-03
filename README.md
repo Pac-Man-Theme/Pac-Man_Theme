@@ -1,12 +1,24 @@
 # PAC MAN#
 
+![Image of Theme](images/i-game-title.png)
+
 ![Image of Theme](images/i-header.png)
+
+![Image - Cherry](images/xxx-cherry.png)
 
 ![Image of Theme](images/ii-reactjs.png)
 
+![Image of Theme](images/ii-reactjs-close.png)
+
+![Image - Cherry](images/xxx-cherry.png)
+
 ![Image of Theme](images/iii-dom.png)
 
+![Image - Cherry](images/xxx-cherry.png)
+
 ![Image of Theme](images/iv-typescript.png)
+
+![Image of Ghost](images/xxx-ghost.png)
 
 **Enjoy! :)**
 
